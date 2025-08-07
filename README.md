@@ -23,8 +23,8 @@
 <div align="center">
   <div>
     <img src="https://github.com/user-attachments/assets/41c72824-7302-4a99-a8e5-7f2493e20306" alt="Home Screen" width="180"/>
-    <img src="https://github.com/user-attachments/assets/5427371a-f01b-4b27-9bf9-f0b768513129" alt="Add Wish Screen" width="180"/>
-    <img src="https://github.com/user-attachments/assets/788dccc6-fed3-4201-a24e-49291e598e6b" alt="Update Wish Screen" width="180"/>
+    <img src="https://github.com/user-attachments/assets/788dccc6-fed3-4201-a24e-49291e598e6b" alt="Add Wish Screen" width="180"/>
+    <img src="https://github.com/user-attachments/assets/5427371a-f01b-4b27-9bf9-f0b768513129" alt="Update Wish Screen" width="180"/>
     <img src="https://github.com/user-attachments/assets/7aab747e-4bfc-4cc2-b575-b34cb3038913" alt="Delete Wish Dialog" width="180"/>
   </div>
 </div>
