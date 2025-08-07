@@ -1,1 +1,1 @@
-# Notes-App
+# Wishlist-App
